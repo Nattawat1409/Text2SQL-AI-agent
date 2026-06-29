@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+*.env
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+app/venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
